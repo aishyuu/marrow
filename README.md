@@ -38,14 +38,14 @@ npm run start
 
 6. Make changes to the files in the src folder and have fun programming!
 
-**If you want to go all the way and do a complete reset of this project, remove everything in the style.css file and clear the index.js besides the css imports.**
+*If you want to go all the way and do a complete reset of this project, remove everything in the style.css file and clear the index.js besides the css imports.*
 
 ```javascript
 import "./style.css";
 import "./reset.css";
 ```
 
-### Custom npm commands made for this template
+## Custom npm commands made for this template
 
 1. Build the project once
 
@@ -58,3 +58,9 @@ npm run build
 ```bash
 npm run start
 ```
+
+## Contact
+
+If you want to contact me over anything, whether it be about the template or to just talk about programming in general, feel free to connect through my Twitter. Would love to talk about tech with other people who are in the dev world!
+
+[Twitter @BonnyBonBon_](https://twitter.com/BonnyBonBon_)
